@@ -20,7 +20,7 @@
 
             <meta-data
                 android:name="android.appwidget.provider"
-                android:resource="@xml/random_number_bigger_info" />
+                android:resource="@xml/random_app_number_info" />
         </receiver>
 
         <activity
